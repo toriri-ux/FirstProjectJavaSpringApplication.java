@@ -14,12 +14,14 @@ How to Run
 
 ## 📸 Screenshots
 ### PROGRAM OPRATION
-![OPRATION Screenshot]!![home1 (1).png](home1%20%281%29.png)
+![OPRATION Screenshot]<img width="1919" height="1073" alt="home1 (1)" src="https://github.com/user-attachments/assets/f2f87011-e805-4f93-8b7f-77412c44dbe8" />
+!
 
 
 ## 📸 Screenshots
 ### PROGRAM OPRATION
-![OPRATION Screenshot]!![name.png](name.png)
+![OPRATION Screenshot]!<img width="1911" height="985" alt="name" src="https://github.com/user-attachments/assets/4cc5afa9-6559-43f2-8e54-904dd19a4751" />
+
 
 
 .... used
