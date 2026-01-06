@@ -9,7 +9,7 @@ Features
 
 How to Run
 1. Clone the repo:
-   git clone https://github.com/your-username/spring-mvc-greeting-app.git
+   git clone https://github.com/toriri-ux/FirstProjectJavaSpringApplication.java.git
 2. Open in IntelliJ as a Maven project.
 3. Run `FirstProjectJavaSpringApplication.java`.
 4. Visit: `http://localhost:8080/example?name=Tori`
